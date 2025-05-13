@@ -6,4 +6,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently graduate student at University of Electronic Science and Technology of China.
+I am a currently graduate student at [school of life science and technology](https://www.life.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
