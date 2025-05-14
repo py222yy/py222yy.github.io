@@ -22,4 +22,4 @@ I am a currently graduate student at [school of life science and technology](htt
   
   IEEE Transactions on Neural Networks and Learning Systems. 
 
-  We propose a graph learning system inspired by the brain cognitive mechanism to automatically learn graph patterns and improve the performance of EEG emotion recognition.
+  We propose a graph learning system inspired by the brain cognitive mechanism to automatically learn graph patterns.
