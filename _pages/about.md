@@ -10,6 +10,8 @@ I am a currently graduate student at [school of life science and technology](htt
 
 # **Publications**
 - **Unsupervised Time-Aware Sampling Network with Deep Reinforcement Learning for EEG-Based Emotion Recognition**.
+
 Yongtao Zhang, **Yue Pan**, Yulin Zhang, Min Zhang, Linling Li, Li Zhang, Gan Huang, Lei Su, Honghai Liu, Zhen Liang, Zhiguo Zhang, IEEE Transactions on Affective Computing. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10264207)]
+
 We propose a time-aware sampling network (TAS-Net) using deep reinforcement learning, which is able to detect key emotion fragments and disregard irrelevant parts. 
 - **An Efficient Graph Learning System for Emotion Recognition Inspired by the Cognitive Prior Graph of EEG Brain Network**.
