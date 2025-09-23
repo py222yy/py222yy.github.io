@@ -3,7 +3,7 @@ title: "Unsupervised Time-Aware Sampling Network with Deep Reinforcement Learnin
 collection: publications
 category: manuscripts
 permalink: /publication/2023-09-26-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We propose a time-aware sampling network (TAS-Net) using deep reinforcement learning, which is able to detect key emotion fragments and disregard irrelevant parts.'
 date: 2023-09-26
 venue: 'IEEE Transactions on Affective Computing'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
