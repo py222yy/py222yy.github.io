@@ -47,7 +47,7 @@ Publications
 <ol class="custom-list" start="1">
   <li>
     <span class="author">Pan Yue</span>, Li Cunbo, et al. 
-    <a href="https://example.com/acm-mm-2025" target="_blank">
+    <a href="../publication/2025-10-27-paper-1" target="_blank">
       Real-Time EEG Emotion Recognition from Dynamic Mixed Spatiotemporal Graph Learning.
     </a> 
     ACM Multimedia 2025.
