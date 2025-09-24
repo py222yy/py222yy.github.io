@@ -47,7 +47,7 @@ Publications
 <ol class="custom-list" start="1">
   <li>
     <span class="author">Pan Yue</span>, Li Cunbo, et al. 
-    <a href="../publication/2025-10-27-paper-1" target="_blank">
+    <a href="../publication/2025-10-27-paper-1" >
       Real-Time EEG Emotion Recognition from Dynamic Mixed Spatiotemporal Graph Learning.
     </a> 
     ACM Multimedia 2025.
@@ -55,7 +55,7 @@ Publications
 
   <li>
     <span class="author">Pan Yue</span>, Liu Qile, et al. 
-    <a href="https://example.com/ieee-tac" target="_blank">
+    <a href="https://example.com/ieee-tac">
       DuA: Dual attentive transformer in long-term continuous EEG emotion analysis.
     </a> 
     IEEE Transactions on Affective Computing. (Major revision)
@@ -67,21 +67,21 @@ Publications
   </li>
   <li>
      Li Cunbo, Cao Zehong, <span class="author">Pan Yue</span>, et al.
-     <a href="https://example.com/ieee-tac" target="_blank">
+     <a href="https://example.com/ieee-tac">
       EEG-Based Emotion Monitoring and Regulation System by Learning the Discriminative Brain Network Manifold.
      </a>     
      IEEE Transactions on Neural Network and Learning System.
   </li>
   <li>
      Li Cunbo, Tang Tian, <span class="author">Pan Yue</span>, et al.
-     <a href="https://example.com/ieee-tac" target="_blank">
+     <a href="https://example.com/ieee-tac">
       An Efficient Graph Learning System for Emotion Recognition Inspired by the Cognitive Prior Graph of EEG Brain Network.
     </a> 
       IEEE Transactions on Neural Network and Learning System.
   </li>
   <li>
      Zhang Yongtao, <span class="author">Pan Yue</span>, et al.
-     <a href="../publication/2023-09-26-paper-1" target="_blank">
+     <a href="../publication/2023-09-26-paper-1">
       Unsupervised Time-Aware Sampling Network with Deep Reinforcement Learning for EEG-Based Emotion Recognition.
     </a> 
       IEEE Transactions on Affective Computing.
