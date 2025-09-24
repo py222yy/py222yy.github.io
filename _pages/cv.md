@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
 * M.S. in Biomedical Engineering, UESTC, 2023~2026
@@ -79,7 +81,7 @@ Publications
   </li>
   <li>
      Zhang Yongtao, <span class="author">Pan Yue</span>, et al.
-     <a href="https://example.com/ieee-tac" target="_blank">
+     <a href="./publications/2023-09-26-paper-1" target="_blank">
       Unsupervised Time-Aware Sampling Network with Deep Reinforcement Learning for EEG-Based Emotion Recognition.
     </a> 
       IEEE Transactions on Affective Computing.
