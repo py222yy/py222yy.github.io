@@ -55,7 +55,7 @@ Publications
 
   <li>
     <span class="author">Pan Yue</span>, Liu Qile, et al. 
-    <a href="https://example.com/ieee-tac">
+    <a href="../publication/2024-07-30-paper-1">
       DuA: Dual attentive transformer in long-term continuous EEG emotion analysis.
     </a> 
     IEEE Transactions on Affective Computing. (Major revision)
@@ -67,14 +67,14 @@ Publications
   </li>
   <li>
      Li Cunbo, Cao Zehong, <span class="author">Pan Yue</span>, et al.
-     <a href="https://example.com/ieee-tac">
+     <a href="../publication/2025-06-17-paper-1">
       EEG-Based Emotion Monitoring and Regulation System by Learning the Discriminative Brain Network Manifold.
      </a>     
      IEEE Transactions on Neural Network and Learning System.
   </li>
   <li>
      Li Cunbo, Tang Tian, <span class="author">Pan Yue</span>, et al.
-     <a href="https://example.com/ieee-tac">
+     <a href="../publication/2024-06-05-paper-1">
       An Efficient Graph Learning System for Emotion Recognition Inspired by the Cognitive Prior Graph of EEG Brain Network.
     </a> 
       IEEE Transactions on Neural Network and Learning System.
