@@ -81,7 +81,7 @@ Publications
   </li>
   <li>
      Zhang Yongtao, <span class="author">Pan Yue</span>, et al.
-     <a href="./publications/2023-09-26-paper-1" target="_blank">
+     <a href="../publication/2023-09-26-paper-1" target="_blank">
       Unsupervised Time-Aware Sampling Network with Deep Reinforcement Learning for EEG-Based Emotion Recognition.
     </a> 
       IEEE Transactions on Affective Computing.
