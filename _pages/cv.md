@@ -88,10 +88,10 @@ Publications
 
 Academic Contests
 ======
-- Huawei Cup · 6th China Graduate AI Innovation Competition Oct 2024 <u>**National First Prize** </u>
-- 9th National  Biomedical Engineering Innovation Design Competition July 2024 <u>**National Second Prize** </u>
-- 2021 National Undergraduate Mathematical Contest in Modeling Sept 2021 <u>**National Second Prize** </u>
-- 2021 World Robot Contest – BCI-Controlled Robot Technical Competition Aug 2021 <u>**Third Prize**</u> 
+- Huawei Cup · 6th China Graduate AI Innovation Competition Oct 2024 **<u>National First Prize </u>**
+- 9th National  Biomedical Engineering Innovation Design Competition July 2024 **<u>National Second Prize</u>**
+- 2021 National Undergraduate Mathematical Contest in Modeling Sept 2021 **<u>National Second Prize </u>**
+- 2021 World Robot Contest – BCI-Controlled Robot Technical Competition Aug 2021 **<u>Third Prize</u>** 
 
 Honors
 ======
