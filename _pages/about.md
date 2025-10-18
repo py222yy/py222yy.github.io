@@ -11,7 +11,9 @@ My research interest includes machine learning, deep learning and transfer learn
 
 In addition to AI for physiological signals, I am also interested in large language models (LLMs) and multi-modal research. Recently, I have been continuously learning technologies related to LLMs and multimodal methods, hoping to apply these advanced technologies to  physiological signals.
 
+You can find my CV here: [Yue Pan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+[Email](mailto:yue.pan@std.uestc.edu.cn) / [Github](https://github.com/py222yy) / [Wechat](../images/wechat.jpg) /
 
 ---
 
@@ -101,6 +103,7 @@ Academic Contests
 
 Honors
 ======
+- **National Scholarship** (Top 1%) 2025
 - **First-Class Academic Scholarship** (Top 10%) 2023, 2024, 2025
 - **Outstanding Undergraduate Thesis** (Top 1%)  2023
 - **Outstanding Graduate student** 2023
