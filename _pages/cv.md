@@ -97,6 +97,7 @@ Academic Contests
 
 Honors
 ======
+- **National Scholarship** (Top 1%) 2025
 - **First-Class Academic Scholarship** (Top 10%) 2023, 2024, 2025
 - **Outstanding Undergraduate Thesis** (Top 1%)  2023
 - **Outstanding Graduate student** 2023
