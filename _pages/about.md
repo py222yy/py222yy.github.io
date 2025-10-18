@@ -13,7 +13,7 @@ In addition to AI for physiological signals, I am also interested in large langu
 
 You can find my CV here: [Yue Pan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:yue.pan@std.uestc.edu.cn) / [Github](https://github.com/py222yy) / [Wechat](../images/wechat.jpg) /
+[Email](mailto:yue.pan@std.uestc.edu.cn) / [Github](https://github.com/py222yy) / [Wechat](../images/Wechat.png) /
 
 ---
 
